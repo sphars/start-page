@@ -1,0 +1,19 @@
+# A list of bookmarks to be added
+
+* Personal
+** Gmail
+** Google Drive
+** weber.edu
+
+* News
+** arstechnica.com
+** theverge.com
+** androidpolice.com
+
+* Shopping
+** amazon.com
+** deals.kinja.com
+
+* Development
+** stackoverflow.com
+** github.com
