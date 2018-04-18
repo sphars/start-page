@@ -8,4 +8,13 @@ body{
     background-color: #212932;
     color: #dfe1e8;
     font-family: 'Roboto Mono', monospace;
+    height: 100%;
+    margin: 0;
+}
+
+.content-container {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0 1rem;
+
 }

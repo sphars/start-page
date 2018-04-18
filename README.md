@@ -8,12 +8,13 @@ A personal landing page for new browser tabs
 + List bookmarks
 + Display time
 + Minimalistic styling
++ Mobile friendly
 ### Extra
 + Fetch weather
 + Search bar
 + Inspirational quote
 + Changing background
-+ Pull bookmarks from list
++ Parse bookmarks from list
 
 ### Inspiration
 The various users on [/r/startpages](https://www.reddit.com/r/startpages/)  
