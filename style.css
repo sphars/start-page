@@ -1,0 +1,11 @@
+/*
+main color: #212932
+secondary color: #2b303b
+main text color: #dfe1e8
+*/
+
+body{
+    background-color: #212932;
+    color: #dfe1e8;
+    font-family: 'Roboto Mono', monospace;
+}
