@@ -5,6 +5,7 @@ main text color: #dfe1e8
 */
 html{
     height: 100%;
+    text-transform: lowercase;
 }
 
 body{
@@ -20,4 +21,16 @@ body{
 
 .content-container {
     max-width: 40rem;
+}
+
+.bookmarks-container {
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: flex-start;
+}
+
+.bookmark a{
+    color: #8c9eb3;
+    text-decoration: none;
 }

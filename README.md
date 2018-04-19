@@ -4,10 +4,11 @@ A personal landing page for new browser tabs
 <!-- A image will go here -->
 
 ## To-do
-### Necessary
+### Important
 + List bookmarks
 + Display time
-+ Minimalistic styling
++ Minimalistic styling  
+  + flex instead of framework
 + Mobile friendly
 ### Extra
 + Fetch weather

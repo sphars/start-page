@@ -1,19 +1,26 @@
 # A list of bookmarks to be added
 
-* Personal
+* Live
 ** Gmail
 ** Google Drive
 ** weber.edu
 
-* News
+* Read
 ** arstechnica.com
 ** theverge.com
 ** androidpolice.com
 
-* Shopping
+* Shop
 ** amazon.com
 ** deals.kinja.com
 
-* Development
+* Develop
 ** stackoverflow.com
 ** github.com
+
+* Watch
+** netflix.com
+** youtube.com
+
+* Waste
+** reddit.com
