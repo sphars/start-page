@@ -21,3 +21,4 @@ A personal landing page for new browser tabs
 The various users on [/r/startpages](https://www.reddit.com/r/startpages/)  
 [Jaredk3nt](https://github.com/Jaredk3nt/homepage)  
 [Almoullim](https://github.com/Almoullim/Blue-White)
+[NPL1270018](https://gitlab.escmx.net/NPL1270018/startpage)
