@@ -20,17 +20,28 @@ body{
 }
 
 .content-container {
-    max-width: 40rem;
+    max-width: 44rem;
 }
 
 .bookmarks-container {
-    display: flex;
-    flex-direction: row;
-    align-items: top;
-    justify-content: flex-start;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(25%, 1fr));
+    margin: 0 -.5rem;
+}
+
+.bookmark-category{
+    margin: 0 .5rem;
+}
+
+.category-name{
+    border-bottom: 1px solid #dfe1e8;
 }
 
 .bookmark a{
     color: #8c9eb3;
     text-decoration: none;
+}
+
+.bookmark a:hover{
+    color: #b1b6c7;
 }

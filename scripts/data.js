@@ -1,0 +1,69 @@
+var bookmarks = 
+{
+    "categories":[
+        {
+            "category":"Live",
+            "bookmarks":[
+                {
+                    "name":"Gmail",
+                    "location":"https://mail.google.com/"
+                },
+                {
+                    "name":"Weber",
+                    "location":"https://www.weber.edu/"
+                }
+            ]
+        },
+        {
+            "category":"Develop",
+            "bookmarks":[
+                {
+                    "name": "Github",
+                    "location": "https://www.github.com/"
+                },
+                {
+                    "name": "Stack Overflow",
+                    "location": "https://www.stackoverflow.com/"
+                }
+            ]
+        },
+        {
+            "category":"Read",
+            "bookmarks":[
+                {
+                    "name": "Ars Technica",
+                    "location": "https://www.arstechnica.com/"
+                },
+                {
+                    "name": "The Verge",
+                    "location": "https://www.theverge.com"
+                },
+                {
+                    "name": "Android Police",
+                    "location": "https://www.androidpolice.com"
+                }
+            ]
+        },
+        {
+            "category":"Waste",
+            "bookmarks":[
+                {
+                    "name":"Youtube",
+                    "location":"https://www.youtube.com"
+                },
+                {
+                    "name":"Netflix",
+                    "location":"https://www.youtube.com"
+                },
+                {
+                    "name":"Reddit",
+                    "location":"https://www.reddit.com"
+                },
+                {
+                    "name":"Steam",
+                    "location":"https://www.steampowered.com"
+                }
+            ]
+        }
+    ]
+}

@@ -5,19 +5,22 @@ A personal landing page for new browser tabs
 
 ## To-do
 ### Important
-+ List bookmarks
++ ~~List bookmarks~~
 + Display time
-+ Minimalistic styling  
-  + flex instead of framework
++ Minimalistic style  
+  + flex or ~~cssgrid~~
 + Mobile friendly
 ### Extra
 + Fetch weather
 + Search bar
 + Inspirational quote
 + Changing background
-+ Parse bookmarks from list
++ ~~Parse bookmarks from list~~ 
+  + Use jquery? Other data structure?
+  + Sort bookmarks
 
 ### Inspiration
 The various users on [/r/startpages](https://www.reddit.com/r/startpages/)  
 [Jaredk3nt](https://github.com/Jaredk3nt/homepage)  
-[Almoullim](https://github.com/Almoullim/Blue-White)
+[Almoullim](https://github.com/Almoullim/Blue-White)  
+[NPL1270018](https://gitlab.escmx.net/NPL1270018/startpage)

@@ -24,3 +24,10 @@
 
 * Waste
 ** reddit.com
+
+HTML Structure:
+<div class="bookmark-category">
+    <div class="category-name">Live</div>
+    <div class="bookmark"><a href="https://mail.google.com/">Gmail</a></div>
+    <div class="bookmark"><a href="https://www.weber.edu/">Weber</a></div>
+</div>
