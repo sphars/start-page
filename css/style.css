@@ -26,31 +26,15 @@ body{
 .bookmarks-container {
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(25%, 1fr));
-    /* flex-wrap: wrap; */
-    /* flex-direction: row;
-    flex-flow: row wrap;
-    align-items: top;
-    justify-content: flex-start; */
+    margin: 0 -.5rem;
 }
 
 .bookmark-category{
-    /* margin: 0 .5rem; */
-    /* width: 25%; */
-    /* flex: 0 1 25%; */
-    /* padding: 0 .5rem; */
-    border: 1px solid red;
+    margin: 0 .5rem;
 }
 
-/* .bookmark-category:first-of-type {
-    margin-left: 0;
-}
-
-.bookmark-category:last-of-type{
-    margin-right: 0;
-} */
-
-.bookmark {
-    word-break: break-all;
+.category-name{
+    border-bottom: 1px solid #dfe1e8;
 }
 
 .bookmark a{
@@ -58,6 +42,6 @@ body{
     text-decoration: none;
 }
 
-#bookmarks{
-    border:1px solid yellow;
+.bookmark a:hover{
+    color: #b1b6c7;
 }

@@ -2,6 +2,19 @@ var bookmarks =
 {
     "categories":[
         {
+            "category":"Live",
+            "bookmarks":[
+                {
+                    "name":"Gmail",
+                    "location":"https://mail.google.com/"
+                },
+                {
+                    "name":"Weber",
+                    "location":"https://www.weber.edu/"
+                }
+            ]
+        },
+        {
             "category":"Develop",
             "bookmarks":[
                 {
@@ -28,6 +41,27 @@ var bookmarks =
                 {
                     "name": "Android Police",
                     "location": "https://www.androidpolice.com"
+                }
+            ]
+        },
+        {
+            "category":"Waste",
+            "bookmarks":[
+                {
+                    "name":"Youtube",
+                    "location":"https://www.youtube.com"
+                },
+                {
+                    "name":"Netflix",
+                    "location":"https://www.youtube.com"
+                },
+                {
+                    "name":"Reddit",
+                    "location":"https://www.reddit.com"
+                },
+                {
+                    "name":"Steam",
+                    "location":"https://www.steampowered.com"
                 }
             ]
         }
