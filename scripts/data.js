@@ -53,7 +53,7 @@ var bookmarks =
                 },
                 {
                     "name":"Netflix",
-                    "location":"https://www.youtube.com"
+                    "location":"https://www.netflix.com"
                 },
                 {
                     "name":"Reddit",
