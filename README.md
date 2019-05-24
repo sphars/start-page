@@ -18,6 +18,7 @@ A personal landing page for new browser tabs
 + ~~Parse bookmarks from list~~ 
   + Use jquery? Other data structure?
   + Sort bookmarks
+  + Use .json file instead of js object
 
 ### Inspiration
 The various users on [/r/startpages](https://www.reddit.com/r/startpages/)  

@@ -41,6 +41,10 @@ var bookmarks =
                 {
                     "name": "Android Police",
                     "location": "https://www.androidpolice.com"
+                },
+                {
+                    "name": "Hacker News",
+                    "location": "https://news.ycombinator.com/"
                 }
             ]
         },
