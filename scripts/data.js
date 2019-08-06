@@ -23,7 +23,7 @@ var bookmarks =
                 },
                 {
                     "name": "Stack Overflow",
-                    "location": "https://www.stackoverflow.com/"
+                    "location": "https://stackoverflow.com/questions"
                 }
             ]
         },
