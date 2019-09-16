@@ -2,7 +2,7 @@ var bookmarks =
 {
     "categories":[
         {
-            "category":"Live",
+            "category":"Life",
             "bookmarks":[
                 {
                     "name":"Gmail",
